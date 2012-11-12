@@ -12,3 +12,10 @@ License
 =======
 
 The code has the same BSD license as OpenCV. You can use it both for research and commercial purposes for free.
+
+The team "Mythical Nizhny Novgorod"
+===================================
+Members:
+  - Ilya Lysenkov (Itseez)
+  - Anatoly Baksheev (Itseez)
+  - Maria Dimashova (Itseez)
